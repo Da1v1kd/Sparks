@@ -1,1 +1,0 @@
-export const baseUrl = "https://gentle-taiga-42868.herokuapp.com/"
